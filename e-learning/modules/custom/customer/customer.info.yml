@@ -1,5 +1,0 @@
-name: Customer Details
-description: A register form to signin and signup to enter existing user details.
-core: 8.x
-package: Custom
-type: module
