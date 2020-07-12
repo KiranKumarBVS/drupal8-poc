@@ -1,0 +1,5 @@
+name: Drupal8 Custom Block
+type: module
+description: 'Example for Drupal 8 modules.'
+package: Custom
+core: 8.x
