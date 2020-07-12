@@ -1,0 +1,3 @@
+services:
+  custom_service.demo:
+    class: Drupal\custom_service\DemoService

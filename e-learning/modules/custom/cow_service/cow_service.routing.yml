@@ -1,0 +1,7 @@
+cow_service.demo:
+  path: '\demo'
+  defaults:
+    _controller: 'Drupal\cow_service\Controller\CowserviceController::demo'
+    _title: ' Cow Service Demo '
+  requirements:
+    _permission: 'access content'

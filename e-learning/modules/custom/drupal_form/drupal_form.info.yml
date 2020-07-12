@@ -1,0 +1,4 @@
+name: Drupal Custom Form
+description: Our custom form
+type: module
+core: 8.x

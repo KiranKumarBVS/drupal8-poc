@@ -1,0 +1,7 @@
+drupal_form.form:
+  path: '/drupalform'
+  defaults: 
+    _form: '\Drupal\drupal_form\Form\Calculate'
+    _title: 'I will help u in adding'
+    requirements:
+      _permission: 'access content'

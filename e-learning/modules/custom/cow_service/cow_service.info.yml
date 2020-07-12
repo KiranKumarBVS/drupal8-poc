@@ -1,0 +1,4 @@
+name: Drupal Cow Service
+description: An example module that declares cow services.
+type: module
+core: 8.x 

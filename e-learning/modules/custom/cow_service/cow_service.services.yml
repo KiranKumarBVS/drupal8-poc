@@ -1,0 +1,4 @@
+services:
+  cow_service.demo:
+    class: \Drupal\cow_service\Services\CowService
+    arguments: ['@current_user']

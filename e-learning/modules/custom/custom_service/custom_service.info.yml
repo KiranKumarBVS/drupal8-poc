@@ -1,0 +1,4 @@
+name: Custom service
+description: Simple convert into uppercase service
+core: 8.x
+type: module
