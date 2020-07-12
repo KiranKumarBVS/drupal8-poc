@@ -25,10 +25,10 @@
 /core
 /vendor
 /modules/README.txt
-/modules/custom
+/modules/contrib
 /profiles/README.txt
 /themes/README.txt
-/themes/custom
+/themes/contrib
 /sites/README.txt
 /sites/example.sites.php
 /sites/example.settings.local.php
